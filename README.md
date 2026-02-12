@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+<img src="https://file.garden/Zn1iVmKBxFInJJHC/rollin.gif" width="300">
+  </p>
+  
+<p align="center">
+  <a href="https://rentry.co/owlbear">RENTRY</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+𖹭
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://schizophrenic.atabook.org/">ATABOOK</a>
+  </p>
 
-<!--
-**kyonphrenia/kyonphrenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  C ⁺ H ok js dttm wen moody
+    </p>
