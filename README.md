@@ -3,13 +3,18 @@
   </p>
   
 <p align="center">
-  <a href="https://rentry.co/owlbear">RENTRY</a>
+  <a href="https://rentry.co/owlbear">MAIN</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-𖹭
+៸៸
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://schizophrenic.atabook.org/">ATABOOK</a>
+  <a href="https://rentry.co/sugarglider">SHARED</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+♡
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://schizophrenic.atabook.org/">ATABOOK</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
 <p align="center">
-  C ⁺ H ok js dttm wen moody
+  C ⁺ H ok js dttm. main will be finished in 10 year
     </p>
